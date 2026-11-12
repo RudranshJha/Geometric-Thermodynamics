@@ -1,3 +1,7 @@
+THIS ENTIRE PAGE IS OUTDATED (will update soon) 
+REFER TO https://zenodo.org/records/23284012 FOR THE LATEST VERSION
+
+
 Email: rudranshnarayanjha@gmail.com 
 
 **▪ LATEST VERSION : Finsler-Lagrange Geometry of Far-from-Equilibrium Thermodynamics**
